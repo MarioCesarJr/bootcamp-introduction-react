@@ -10,12 +10,12 @@ The aim of this project was to develop a similar interface to Facebook using Rea
 > yarn
 ```
 
-2. Run Server
+2. Run app
 
 ```bash
 > yarn dev
 ```
 
-You can browse the apis at <http://localhost:8080>
+Open <http://localhost:8080> to view it in the browser.
 
 ![App Screenshot](screenshot.png)
